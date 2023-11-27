@@ -1,0 +1,2 @@
+In our final year of engineering, my two friends and I designed an EV battery charger and charging port for a four-wheeler. 
+I've included some pictures taken during the development phase of the project.
